@@ -99,7 +99,7 @@ $link-color: #00bc8c;
 $link-hover-decoration: none;
 ```
 ### Customize this theme
-To further customize this theme (not specifically Bootstrap 4 defaults) you can add/edit/update theme.css located at assets/css/theme.css.
+To further customize this theme (not specifically Bootstrap 4 defaults) you can add to, edit or update the theme.css file, located at assets/css/theme.css.
 
 View the [demo](https://steveshead.github.io/bootstrap4-creatives) site [here](https://steveshead.github.io/bootstrap4-creatives).
 
