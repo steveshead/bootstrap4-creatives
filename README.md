@@ -98,6 +98,8 @@ $link-color: #00bc8c;
 // remove underline from hyperlinks
 $link-hover-decoration: none;
 ```
+### Customize this theme
+To further customize this theme (not specifically Bootstrap 4 defaults) you can add/edit/update theme.css located at assets/css/theme.css.
 
 View the [demo](https://steveshead.github.io/bootstrap4-creatives) site [here](https://steveshead.github.io/bootstrap4-creatives).
 
